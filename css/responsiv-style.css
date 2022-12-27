@@ -1,0 +1,66 @@
+@media(nax-width: 991px){
+    
+    h1{
+        font-size: 2.1875rem;
+    }
+}
+h2{
+    font-size: 1.375rem;
+}
+
+ .text-content{
+   
+width: 100%;
+}
+
+.wrapper{
+
+    padding-top: 4.25rem;
+    padding-bottom: 3.25rem;
+}
+
+.navigation-wrap{
+    text-align: center;
+    background-color: #fff;
+}
+.navigation-wrap .nav-link{
+
+    line-height: 1.87rem;
+}
+
+
+
+
+@media(max-width: 767px){
+
+    h1{
+        font-size: 1.875rem;
+    }
+    
+.navigation-wrap .navbar-brand img{
+     width: 12rem;
+}
+}
+
+.story-section{
+ 
+height: 35rem;
+padding: 0 3rem;
+  
+}
+
+ 
+.testimonial-section.wrapper{
+    padding: 4rem 0 5rem;
+}
+
+.footer .footer-link, .footer a i{
+
+    padding: 0 0.7rem;
+}
+ 
+@media (max-width:330px){
+    .testimonial-section.carousel-item{
+        padding: 13rem 3.125rem;
+    }
+}
